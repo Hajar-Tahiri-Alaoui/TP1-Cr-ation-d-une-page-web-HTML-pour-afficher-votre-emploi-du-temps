@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mon emploi du temps</title>
+</head>
+<body>
+<div style = "text-align: center;">
+<img src="logo.jpeg" width="400" height="100" >
+</div>
+<img src="img.jpg.jpeg" width="200" height="80" align="left">
+<h4 align="right"><u>Année Universitaire 2025-2026</u></h4>
+<h2 align="center">Emploi Du Temps - IAIL-S2</h2>
+<table border="1">
+<tr>
+<th bgcolor="lightgray">HEURE</th>
+<th bgcolor="lightgray">09h:00 -10h:30</th>
+<th bgcolor="lightgray">10h:30 -12h:00</th>
+<th bgcolor="lightgray">12h:15 -13h:45</th>
+<th bgcolor="lightgray">13h:45 -15h:15 </th>
+<th bgcolor="lightgray">15h:30 -17h:00</th>
+<th bgcolor="lightgray">17h:00 -18h:30</th>
+</tr>
+<tr>
+<td bgcolor=" lightgray">LUNDI</td>
+<td>Programmation Python2 cours-Amphi A Prof M.Laraqui</td>
+<td>Algorithme et programmation C2 cours-Amphi A Prof H.Oudani</td>
+<td></td>
+<td>Algorithme et programmation C2 TD/TP G1 Prof H.Oudani</td>
+<td>Programmation python2 TD/TP G3 Salle P2 Prof A.Elouardi</td>
+<td>Programmation python2 TD/TP G2 Salle P2 Prof A.Elouardi</td>
+</tr>
+<tr>
+<td bgcolor="lightgray">MARDI </td>
+<td>Programmation python2 TD/TP G1 Salle P2 Prof A.Elouardi</td>
+<td></td>
+<td>Digital skills & intelligence artificielle cours-AmphiA Prof A.Elouardi</td>
+<td>Digital skills & intelligence artificielle TD/TP-AmphiA Prof A.Elouardi </td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td bgcolor="lightgray"> MERCREDI</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Algorithme et programmation C2 TD/TP G2-Salle P2 Prof H.Oudani </td>
+<td>Algebre 2 TD-Amphi A Prof I.Boutaayamo</td>
+<td>Analyse 2 cours-Amphi A Prof A.Hadir</td>
+</tr>
+<tr>
+<td bgcolor="lightgray">JEUDI </td>
+<td>Traitement de signal cours-Amphi A Prof H.Azzhhafi</td>
+<td>Traitement de signal TD-Amphi A Prof H.Azzahhafi</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td bgcolor="lightgray">vendredi </td>
+<td>Algebre 2 cours-Amphi c Prof I.Boutaayamo</td>
+<td>Analyse 2 cours-Amphi c Prof A.Hadir</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td bgcolor="lightgray">samedi</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Programmation web1 TD/TP G2-Salle P2 prof k.Omari</td>
+<td>Programmation web1 cours-Salle P1 Prof K.Omari</td>
+<td>Programmation web1 TD/TP G1-Salle P2 prof K.Omari</td>
+</tr>
+
+</table>
+</body>
+</html>
